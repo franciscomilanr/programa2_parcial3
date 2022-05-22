@@ -28,6 +28,7 @@
 	<li> Instruccion fopen </li>
   <li> Apertura de archivos </li>
   <li> Cerrador de archivos </li>
+	<li> Instruccion fclose </li>
 	<li> Apertura de archivos en modo escritura </li>
 	<li> Apertura de archivos en modo lectura </li>
   <li> Medicion de en cuantas veces se ha leido el archivo </li>
