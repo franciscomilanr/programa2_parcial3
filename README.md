@@ -37,6 +37,6 @@
 	<li> Valor de retorno </li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que haga uso del buffer para leer por bloques de datos los datos del archivo previamente generado </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que haga uso del buffer para leer por bloques de datos los datos del archivo previamente generado. </li>
  <br>
  <li><b> Breve descripción: </b> Programa 2 en C del parcial 3 que utiliza archivos y usa el buffer para imprimir los caracteres del archivo para la materia programacion estructurada. </li>
